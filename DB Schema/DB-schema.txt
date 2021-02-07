@@ -1,0 +1,55 @@
+DB Schema:
+
+{
+   "properties":[
+      {
+         "ammenities":[],
+         "availablity":"",
+         "full_address":"",
+         "geolocation":{
+            "lat":"",
+            "lng":"",
+            "text":""
+         },
+         "images":[
+            {
+               "original":"",
+               "thumbnail":""
+            }
+         ],
+         "location":"",
+         "near_to":"",
+         "overview":"",
+         "pk":"GLP1",
+         "property_name":""
+      }
+   ]
+}
+ 
+ 
+Example:
+
+{
+  "properties" : [ {
+    "ammenities" : [ "Swimming pool", "Gym", "Club House", "Indoor Games", "Party Hall", "Jogging Track", "Tennis Court", "Badminton Court", "Kids/Children's Play Area", "Meeting Rooms", "Security", "Power Backup", "Rain Water Harvesting", "Waste Management", "Covered Parking", "Lawn" ],
+    "availablity" : "115",
+    "full_address" : "Kanakpura Road",
+    "geolocation" : {
+      "lat" : "12.861267",
+      "lng" : "77.535312",
+      "text" : "Golden Legacy Forest View"
+    },
+    "images" : [ {
+      "original" : "https://cdn.pixabay.com/photo/2016/12/08/21/21/skyscraper-1893201_1280.jpg",
+      "thumbnail" : "https://cdn.pixabay.com/photo/2016/12/08/21/21/skyscraper-1893201_1280.jpg"
+    }, {
+      "original" : "https://images.pexels.com/photos/129494/pexels-photo-129494.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumbnail" : "https://images.pexels.com/photos/129494/pexels-photo-129494.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    } ],
+    "location" : "Bangalore",
+    "near_to" : "School, Shopping mart",
+    "overview" : "Kanakapura - Nice Road Junction | 3 acres of Luxury Living | Two blocks comprising Basement and stilt parking with eight upper floors | more that 70% area for community activity and open space | Wide center courtyard with designer landscape in between towers",
+    "pk" : "GLP1",
+    "property_name" : "Golden Legacy Forest View"
+  }]
+}

@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4b832f51.chunk.css",
+    "main.js": "/static/js/main.7ea49afa.chunk.js",
+    "main.js.map": "/static/js/main.7ea49afa.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.730ad540.js",
+    "runtime-main.js.map": "/static/js/runtime-main.730ad540.js.map",
+    "static/css/2.31469f8c.chunk.css": "/static/css/2.31469f8c.chunk.css",
+    "static/js/2.73e7eef2.chunk.js": "/static/js/2.73e7eef2.chunk.js",
+    "static/js/2.73e7eef2.chunk.js.map": "/static/js/2.73e7eef2.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e199f1b4f74b552a946d0e38bf360f61.js": "/precache-manifest.e199f1b4f74b552a946d0e38bf360f61.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.31469f8c.chunk.css.map": "/static/css/2.31469f8c.chunk.css.map",
+    "static/css/main.4b832f51.chunk.css.map": "/static/css/main.4b832f51.chunk.css.map",
+    "static/js/2.73e7eef2.chunk.js.LICENSE.txt": "/static/js/2.73e7eef2.chunk.js.LICENSE.txt",
+    "static/media/bg11.jpg": "/static/media/bg11.e643a6cf.jpg",
+    "static/media/frame.jpg": "/static/media/frame.257fd190.jpg",
+    "static/media/frame3.jpg": "/static/media/frame3.189f542f.jpg",
+    "static/media/header.jpg": "/static/media/header.2ca9ab84.jpg",
+    "static/media/knowus.jpg": "/static/media/knowus.03695df9.jpg",
+    "static/media/now-logo.png": "/static/media/now-logo.5375a85e.png",
+    "static/media/now-ui-kit.scss?v=1.4.0": "/static/media/nucleo-outline.8ebec31f.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.730ad540.js",
+    "static/css/2.31469f8c.chunk.css",
+    "static/js/2.73e7eef2.chunk.js",
+    "static/css/main.4b832f51.chunk.css",
+    "static/js/main.7ea49afa.chunk.js"
+  ]
+}
